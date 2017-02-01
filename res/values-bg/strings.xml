@@ -105,7 +105,7 @@
   <string name="led_notification_text">LED светлини, разрешени в настройките</string>
   <string name="notification_light_no_apps_summary">За да добавите отделен контрол за приложение, активирайте \'%1$s\' и натиснете \'\u002b\' в лентата на менюто</string>
   <!-- LiveDisplay -->
-  <string name="live_display_summary">Оптимизира настройките на екрана, въз основа на времето от деня и условията на околната среда за да се подобри четливостта и да намали умората на очите</string>
+  <string name="live_display_summary">Оптимизира настройките на дисплея, въз основа на времето от деня и условията на околната среда за да се подобри четливостта и да намали умората на очите</string>
   <string name="live_display_mode">Режим на екрана</string>
   <string name="live_display_color_temperature_title">Температура на цвета</string>
   <string name="live_display_color_temperature_summary">Ден: <xliff:g id="day_temperature">%1$d </xliff:g> K нощ: <xliff:g id="night_temperature">%2$d </xliff:g> K</string>
@@ -250,7 +250,7 @@
   <string name="profile_setup_actions_title_config">Преконфигуриране на действия</string>
   <string name="wireless_networks_settings_title">Кабелни&amp; безжични мрежи</string>
   <!-- Profile triggers -->
-  <string name="no_bluetooth_triggers">Няма сдвоени Bluetooth устройства. \nДокоснете за да сдвойте Bluetooth устройството преди конфигурирането на превключвателите.</string>
+  <string name="no_bluetooth_triggers">Няма сдвоени блутуут устройства. \nДокоснете за да сдвойте блутуут устройството преди конфигурирането на превключвателите.</string>
   <string name="no_wifi_triggers">Няма настроени точки за достъп чрез Wi\u2011Fi.\nДокоснете за да се свържете с Wi\u2011Fi преди конфигурирането на превключвателите.</string>
   <string name="no_triggers_configured">Няма конфигуриран превключвател. Натиснете, за да добавите още.</string>
   <string name="no_triggers_configured_nfc">Натиснете, за да настройте нов NFC превключвател.</string>
@@ -483,8 +483,8 @@
   <string name="power_save_title">Изключително пестене на батерия</string>
   <string name="power_save_summary">Ограничаване производителноста на устройството и работата във фонов режим за икономия на енергия</string>
   <string name="auto_power_save_title">Автоматичнен режим на енергоспестяване</string>
-  <string name="auto_power_save_summary_on">Автоматично се активира режима за енергоспестяване при %s на батерията</string>
-  <string name="auto_power_save_summary_off">Автоматичния режим енергоспестяване не е деактивиран</string>
+  <string name="auto_power_save_summary_on">Режима за енергоспестяване автоматично се активира при %s на батерията</string>
+  <string name="auto_power_save_summary_off">Автоматичния режим енергоспестяване е деактивиран</string>
   <string name="app_perf_profiles_title">Автоматична оптимизация</string>
   <string name="app_perf_profiles_summary">Автоматичен избор на подходящ профил на производителност за различните приложения</string>
   <string name="auto_power_save_never">Никога</string>
@@ -498,4 +498,5 @@
   <string name="expanded_desktop_style_hide_navigation">Скриване на лентата за навигация</string>
   <string name="expanded_desktop_style_hide_both">Скрий и двете</string>
   <string name="expanded_desktop_nothing_to_show_text">Изключите персонализирането на вашия разширен екран на база на броя на приложенията</string>
+  <!-- Gestures: Touchscreen gestures -->
 </resources>
