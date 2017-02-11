@@ -489,4 +489,36 @@
   <string name="expanded_desktop_nothing_to_show_text">Matikan saklar untuk menyesuaikan desktop diperluas pada basis per-app</string>
   <!-- Sounds: Charging sounds -->
   <!-- Gestures: Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Gerakan layar sentuh</string>
+  <string name="touchscreen_gesture_settings_summary">Lakukan berbagai gerakan layar sentuh untuk tindakan cepat</string>
+  <string name="touchscreen_gestures_haptic_feedback_title">Umpan balik haptik</string>
+  <string name="touchscreen_gestures_haptic_feedback_summary">Bergetar ketika gerakan layar sentuh terdeteksi</string>
+  <string name="touchscreen_gesture_two_finger_down_swipe_title">Usap ke bawah dengan dua jari</string>
+  <string name="touchscreen_gesture_one_finger_up_swipe_title">Usap ke atas dengan satu jari</string>
+  <string name="touchscreen_gesture_one_finger_down_swipe_title">Usap ke bawah dengan satu jari</string>
+  <string name="touchscreen_gesture_one_finger_left_swipe_title">Usap ke kiri dengan satu jari</string>
+  <string name="touchscreen_gesture_one_finger_right_swipe_title">Usap ke kanan dengan satu jari</string>
+  <string name="touchscreen_gesture_up_arrow_title">Gambar \"Λ\"</string>
+  <string name="touchscreen_gesture_down_arrow_title">Gambar \"V\"</string>
+  <string name="touchscreen_gesture_left_arrow_title">Gambar \"&lt;\"</string>
+  <string name="touchscreen_gesture_right_arrow_title">Gambar \"&gt;\"</string>
+  <string name="touchscreen_gesture_letter_c_title">Gambar huruf \"C\"</string>
+  <string name="touchscreen_gesture_letter_e_title">Gambar huruf \"e\"</string>
+  <string name="touchscreen_gesture_letter_o_title">Gambar huruf \"O\"</string>
+  <string name="touchscreen_gesture_letter_m_title">Gambar huruf \"M\"</string>
+  <string name="touchscreen_gesture_letter_s_title">Gambar huruf \"S\"</string>
+  <string name="touchscreen_gesture_letter_v_title">Gambar huruf \"V\"</string>
+  <string name="touchscreen_gesture_letter_w_title">Gambar huruf \"W\"</string>
+  <string name="touchscreen_gesture_letter_z_title">Gambar huruf \"Z\"</string>
+  <string name="touchscreen_gesture_action_dialog_title">Tindakan gerakan</string>
+  <string name="touchscreen_gesture_action_do_nothing">Jangan lakukan apa-apa</string>
+  <string name="touchscreen_gesture_action_flashlight">Hidup/matikan senter</string>
+  <string name="touchscreen_gesture_action_camera">Buka kamera</string>
+  <string name="touchscreen_gesture_action_browser">Buka perambaan</string>
+  <string name="touchscreen_gesture_action_dialer">Buka telepon</string>
+  <string name="touchscreen_gesture_action_email">Lihat email Anda</string>
+  <string name="touchscreen_gesture_action_messages">Lihat pesan Anda</string>
+  <string name="touchscreen_gesture_action_play_pause_music">Putar/jeda pemutaran musik</string>
+  <string name="touchscreen_gesture_action_previous_track">Kembali ke trek musik sebelumnya</string>
+  <string name="touchscreen_gesture_action_next_track">Lanjut ke trek musik berikutnya</string>
 </resources>
