@@ -44,7 +44,7 @@
   <string name="privacy_guard_switch_label">Ativar Proteção à Privacidade</string>
   <string name="privacy_guard_dlg_title">Ativar Proteção à Privacidade?</string>
   <string name="privacy_guard_dlg_text">Quando a Proteção à Privacidade estiver ativada, o aplicativo não será capaz de acessar dados pessoais como contatos, mensagens e registros de chamadas.</string>
-  <string name="privacy_guard_dlg_system_app_text">Ao habilitar a Proteção à Privacidade para um aplicativo de sistema, o aplicativo não será capaz de acessar ou prover dados pessoais. Isto pode causar problemas em outros aplicativos.</string>
+  <string name="privacy_guard_dlg_system_app_text">Ao ativar a Proteção à Privacidade para um aplicativo do sistema, o aplicativo não será capaz de acessar ou fornecer dados pessoais. Isto poderá problemas em outros aplicativos.</string>
   <string name="privacy_guard_default_title">Habilitado por padrão</string>
   <string name="privacy_guard_default_summary_on">Proteção à Privacidade está ativa</string>
   <string name="privacy_guard_default_summary">Ativar por padrão para aplicativos recém-instalados</string>
@@ -135,6 +135,10 @@
   <string name="live_display_color_profile_basic_summary">Use o visor não calibrado</string>
   <string name="live_display_color_profile_adaptive_title">Adaptável</string>
   <string name="live_display_color_profile_adaptive_summary">As cores adaptam-se às condições do ambiente</string>
+  <string name="live_display_color_profile_reading_title">Leitura</string>
+  <string name="live_display_color_profile_reading_summary">Cores mais quentes para reduzir a fadiga ocular</string>
+  <string name="live_display_color_profile_srgb_title">sRGB</string>
+  <string name="live_display_color_profile_srgb_summary">Cores fidedignas ao espaço de cores sRGB</string>
   <string name="color_calibration_title">Calibração de cores</string>
   <string name="color_calibration_summary">Calibra as cores da tela</string>
   <string name="color_red_title">Vermelho</string>
@@ -482,6 +486,7 @@
   <string name="power_save_title">Economia extrema de energia</string>
   <string name="power_save_summary">Restringir o desempenho do dispositivo e as atividades em segundo plano para poupar energia</string>
   <string name="auto_power_save_title">Economia de energia automática</string>
+  <string name="auto_power_save_summary_on">Ativar automaticamente o modo de economia de energia aos %s por cento de bateria</string>
   <string name="auto_power_save_summary_off">Não ativar o modo de economia de energia automaticamente</string>
   <string name="app_perf_profiles_title">Otimização automática</string>
   <string name="app_perf_profiles_summary">Escolher automaticamente um perfil de desempenho adequado para aplicativos e padrões de uso</string>
